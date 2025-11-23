@@ -65,8 +65,8 @@ Visualizes the distribution of alcohol and smoking habits across different age g
 Displays BMI variation across combined lifestyle patterns.
 
 💡Insight:
- * Sugar intake alone does not drastically change BMI.*
- * Exercise frequency is a much stronger determinant.*
+ * Sugar intake alone does not drastically change BMI.
+ * Exercise frequency is a much stronger determinant.
 
 ### **🔶 4.3 Heatmap — Sleep vs Smoking/Alcohol Habits**
 
@@ -262,6 +262,7 @@ streamlit run app.py
 ### **Özlem Tay  ID:2022555467**
 ### **Işıl Nur Taşdemir ID:2018556064**
 ### **Zeynep Vurucu ID:2019555462**
+
 
 
 
