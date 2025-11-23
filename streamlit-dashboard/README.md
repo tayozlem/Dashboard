@@ -135,7 +135,7 @@ This updated network visualizes **causal proximity** between:
 This graph explains **combined lifestyle effects**, not isolated ones.
 
 
-## 📌 ** 5.Machine Learning Model — Health Risk Classification**
+## 📌 **5.Machine Learning Model — Health Risk Classification**
 
  **Random Forest Classifier** predicts health risk levels:
 
@@ -162,7 +162,7 @@ Insight:
 🔍 BMI, age, and smoking/alcohol behaviors are major predictors.
 
 
-## 📌 **6. What we Learned **
+## 📌 **6. What we Learned**
 
 From this project, I observed that:
 
@@ -262,5 +262,6 @@ streamlit run app.py
 ### **Özlem Tay  ID:2022555467**
 ### **Işıl Nur Taşdemir ID:2018556064**
 ### **Zeynep Vurucu ID:2019555462**
+
 
 
