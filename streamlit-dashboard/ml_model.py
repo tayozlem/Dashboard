@@ -85,7 +85,7 @@ def render_ml_model(df):
     user_data = [[age, bmi, sleep, ex_enc, sm_enc, al_enc]]
 
     # ========== TAHMİN ET BUTONU ==========
-    if st.button("🔮 Tahmin Et"):
+    if st.button("🔮 Predict"):
         pred_class = model.predict(user_data)[0]
         pred_label = class_labels[pred_class]
 
@@ -99,3 +99,4 @@ def render_ml_model(df):
 
     st.write("### 📊 Model Accuracy")
     st.write(f"**Accuracy:** {accuracy:.2f}")
+
